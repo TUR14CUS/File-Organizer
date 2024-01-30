@@ -2,6 +2,15 @@
 
 This Python script organizes files in a specified directory by deleting duplicate files and categorizing them into subdirectories based on file extensions. It provides options for the user to input the directory path and monitors the directory for new files, ensuring proper organization.
 
+## Table of Contents
+1. [Features](#features)
+2. [How to Use](#how-to-use)
+3. [Options](#options)
+4. [User Input](#user-input)
+5. [Requirements](#requirements)
+6. [Notes](#notes)
+7. [License](#license)
+
 ## Features
 
 1. **Delete Duplicate Files**: The script identifies and deletes duplicate files in the specified directory.
@@ -46,4 +55,5 @@ This Python script organizes files in a specified directory by deleting duplicat
 
 - The script is designed to run continuously and classify new files in real-time.
 
-Feel free to customize the script and categories based on your specific requirements.
+## License
+This project is licensed under the [MIT License](LICENSE).
